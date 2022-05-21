@@ -1,6 +1,9 @@
-# Mapbox Vector Tile Experiment
-This is highly experimental, do not try this at home.
+# Proof of concept svg from mbtiles.
+
+Work in progress.
+
 I'm playing with Mapbox Vector Tile and Python, see how it works etc... I'm trying to generate a SVG image from Mapbox Vector Tiles (.pbf/.mvt) files.
+
 If you have SQLite vector MBTiles, I'm also providing a script that queries the database and dumps to MVT given tile x, tile y and zoom level.
 
 ## MVT/PBF to SVG
